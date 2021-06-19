@@ -1,0 +1,3 @@
+### GET ALL ITEMS
+GET http://localhost:5000/items HTTP/1.1
+# GET https://ws.apicep.com/cep/23097-010.json HTTP/1.1
